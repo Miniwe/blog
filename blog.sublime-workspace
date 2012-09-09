@@ -1,0 +1,838 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"SDN",
+				"SDNinja"
+			],
+			[
+				"ga",
+				"gameScene"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"wd",
+				"wpdb"
+			],
+			[
+				"top",
+				"topcount"
+			],
+			[
+				"SD",
+				"SDNinja"
+			],
+			[
+				"scor",
+				"scoreToServer"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"array_",
+				"array_combine"
+			],
+			[
+				"jQ",
+				"jQuery	jQuery (Select or Create DOM Element)"
+			],
+			[
+				"ob_get_c",
+				"ob_get_contents"
+			],
+			[
+				"date",
+				"byDate"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"mo",
+				"monthData"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"doc",
+				"docId"
+			],
+			[
+				"page",
+				"pagesize"
+			],
+			[
+				"pa",
+				"pagesize"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"z",
+				"z-index: ${1001:$SELECTION};"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"hew",
+				"height"
+			],
+			[
+				"h",
+				"header"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wi",
+				"widows"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"ob_ge",
+				"ob_get_contents"
+			],
+			[
+				"ob_e",
+				"ob_end_clean"
+			],
+			[
+				"var_e",
+				"var_export"
+			],
+			[
+				"V_N",
+				"V_NEWS_ID"
+			],
+			[
+				"s",
+				"style	@style"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"scri",
+				"scriptPath"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"select",
+				"select"
+			],
+			[
+				"html",
+				"<html>${1001:$SELECTION}</html>"
+			],
+			[
+				"max",
+				"max-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ind",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git diff",
+				"Git: Diff All"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"cus",
+				"Git: Custom Command"
+			],
+			[
+				"git c",
+				"Git: Custom Command"
+			],
+			[
+				"sni ba",
+				"Snippet: Backbone Collection"
+			],
+			[
+				"in",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"matc",
+				"Zen Coding: Go to matching tag"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"char",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"en",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"cha",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git all",
+				"Git: Log All"
+			],
+			[
+				"git b",
+				"Git: New Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"all",
+				"Git: Graph All"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"recent ",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"ope n",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"tog",
+				"View: Toggle Side Bar"
+			],
+			[
+				"togle s",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 355.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/www/blog/app/views/pages/about.html.haml",
+		"/C/www/blog/app/views/pages/contact.html.haml",
+		"/C/www/blog/app/views/pages/home.html.haml",
+		"/C/www/blog/app/controllers/pages_controller.rb",
+		"/C/www/blog/app/helpers/application_helper.rb",
+		"/C/www/blog/app/views/layouts/application.html.haml",
+		"/C/www/blog/test_user.rb",
+		"/C/Users/Messir/.ssh/github_rsa.pub",
+		"/C/www/blog/.gitignore",
+		"/C/www/blog/README.rdoc",
+		"/C/Users/Messir/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/www/blog/app/assets/stylesheets/screen.css.sass",
+		"/C/www/blog/Gemfile",
+		"/C/www/blog/app/assets/stylesheets/scaffolds.css.sass",
+		"/C/www/blog/app/assets/stylesheets/application.css",
+		"/C/www/blog/app/assets/stylesheets/primary.css.sass",
+		"/C/www/blog/app/views/pages/home.html.erb",
+		"/C/www/blog/app/assets/stylesheets/scaffolds.css.scss",
+		"/C/www/blog/app/assets/stylesheets/bootstrap.min.css",
+		"/C/www/blog/config/application.rb",
+		"/C/www/blog/app/assets/javascripts/application.js",
+		"/C/www/blog/app/views/pages/about.html",
+		"/C/www/blog/app/views/pages/contact.html.erb",
+		"/C/www/blog/spec/controllers/pages_controller_spec.rb",
+		"/C/www/blog/app/assets/stylesheets/bootstrap-responsive.min.css",
+		"/C/www/azconews/public/wp-content/plugins/sdninja/css/sdninja.css",
+		"/C/www/azconews/public/wp-content/plugins/sdninja/js/sdninja.js",
+		"/C/www/azconews/public/wp-content/plugins/sdninja/sdninja.php",
+		"/C/www/azconews/public/wp-content/plugins/sdninja/js/crafty.js",
+		"/C/Users/Messir/AppData/Local/Temp/_tc/craftyjs-Crafty-6fde627/demos/fruitassassin/assassin.js",
+		"/C/www/azconews/public/wp-content/plugins/sdninja/fruitassassin/fruitassassin.htm",
+		"/C/www/azconews/public/wp-content/plugins/sdninja/js/sdbad.js",
+		"/C/www/azconews/public/wp-content/plugins/sdninja/js/test.js",
+		"/C/www/SDNninja/project/SDNninja/switchninja - base.js",
+		"/C/www/SDNninja/project/SDNninja/switchninja.js",
+		"/C/www/azconews/public/wp-content/themes/azconews/header.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/footer.php",
+		"/C/www/azconews/public/wp-content/plugins/sdninja/sdninja_admin.php",
+		"/C/www/azconews/public/wp-content/plugins/sdninja/scores_table.php",
+		"/C/www/azconews/public/yandex_77ef42693169ac1c.txt",
+		"/C/www/inright/htdocs/common/tags.php",
+		"/C/www/inright/htdocs/common/region.php",
+		"/C/www/SDNninja/project/SDNninja/switchninja2.html",
+		"/C/www/azconews/public/wp-content/plugins/sdninja/js/tmp.js",
+		"/C/www/inright/htdocs/common/_news.php",
+		"/C/www/inright/htdocs/common/news.php",
+		"/C/www/azconews/public/wp-content/plugins/sdninja/submit_scores.php",
+		"/C/www/azconews/public/wp-content/plugins/hello.php",
+		"/C/www/endantey/htdocs/.htaccess",
+		"/C/Programs/Apache Software Foundation/Apache2.2/bin/.htaccess",
+		"/C/Programs/Apache Software Foundation/Apache2.2/bin/p.php",
+		"/C/www/azconews/public/wp-content/plugins/auto-post-thumbnail/auto-post-thumbnail.php",
+		"/C/www/azconews/public/wp-content/plugins/rss-import/rssimport.php",
+		"/C/www/azconews/public/wp-content/plugins/rss-image-widget/rss_image.php",
+		"/C/www/azconews/public/wp-content/plugins/wordpress-popular-posts/wordpress-popular-posts.php",
+		"/C/www/endantey/htdocs/common/pages.php",
+		"/C/www/endantey/htdocs/templates/news_list.xsl",
+		"/C/www/endantey/htdocs/common/persons.php",
+		"/C/www/endantey/htdocs/templates/personslist.xsl",
+		"/C/www/endantey/htdocs/templates/person.xsl",
+		"/C/www/endantey/htdocs/templates/_main.xsl",
+		"/C/www/endantey/htdocs/templates/pages.xsl",
+		"/C/www/endantey/htdocs/templates/map.xsl",
+		"/C/www/endantey/htdocs/admin/.htaccess",
+		"/C/www/endantey/htdocs/admin/PAGES.php",
+		"/C/www/endantey/htdocs/common/news.php",
+		"/C/www/endantey/htdocs/admin/create/endantey.xml",
+		"/C/www/endantey/htdocs/templates/news.xsl",
+		"/C/www/endantey/htdocs/templates/index.xsl",
+		"/C/www/endantey/htdocs/templates/a.calendar.xsl",
+		"/C/www/endantey/htdocs/_inc/css/main.css",
+		"/C/www/endantey/htdocs/_inc/js/jquery.main.js",
+		"/C/www/endantey/htdocs/common/_document.php",
+		"/C/www/endantey/htdocs/common/antey_calendar.php",
+		"/C/www/endantey/htdocs/common/document.php",
+		"/C/www/endantey/htdocs/common/calendar.php",
+		"/C/www/endantey/htdocs/include/news.php",
+		"/C/www/endantey/htdocs/templates/_library.xsl",
+		"/C/www/endantey/htdocs/templates/a.index.xsl",
+		"/C/www/endantey/htdocs/common/constructor.php",
+		"/C/www/endantey/htdocs/endAntey.sublime-workspace",
+		"/C/www/endantey/htdocs/robots.txt",
+		"/C/www/endantey/htdocs/_inc/css/index.css",
+		"/C/www/endantey/htdocs/include/index.php",
+		"/C/www/endantey/htdocs/include/search.php",
+		"/C/www/endantey/htdocs/_router.php",
+		"/C/www/endantey/htdocs/templates/search.xsl",
+		"/C/www/endantey/htdocs/common/functions.php",
+		"/C/www/endantey/htdocs/common/db.class.php",
+		"/C/www/endantey/htdocs/common/photoreport.php",
+		"/C/www/endantey/htdocs/common/config.db.php",
+		"/C/www/endantey/htdocs/include/persons.php",
+		"/C/www/endantey/htdocs/css/style.css",
+		"/C/www/endantey/htdocs/admin/core.php",
+		"/C/Users/Messir/Downloads/twitter-bootstrap-b261f97/docs/examples/hero.html",
+		"/C/www/inright/htdocs/admin/NEWS.php",
+		"/C/www/endantey/htdocs/templates/_base.xsl",
+		"/C/www/endantey/htdocs/templates/_ajax_main.xsl",
+		"/C/www/endantey/htdocs/admin/login.php",
+		"/C/www/endantey/htdocs/admin/BANNER_PAGE.php",
+		"/C/www/endantey/htdocs/admin/EDITER.php",
+		"/C/www/endantey/htdocs/admin/cron.php",
+		"/C/www/endantey/htdocs/common/table.php",
+		"/C/www/endantey/htdocs/admin/index.php",
+		"/C/www/endantey/htdocs/index.html",
+		"/C/www/azconews/public/wp-content/themes/azconews/style.css",
+		"/C/www/azconews/public/wp-content/plugins/date_picker/css/layout.css",
+		"/C/www/azconews/public/wp-content/themes/azconews/functions.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/js/arhiv.js",
+		"/C/www/azconews/public/wp-content/themes/azconews/sections/arhiv.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/js/script.js",
+		"/C/www/azconews/public/wp-content/themes/azconews/search.php",
+		"/C/www/azconews/public/index.php",
+		"/C/www/azconews/public/wp-content/plugins/date_picker/date-picker.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/right.php",
+		"/C/www/azconews/public/wp-content/plugins/date_picker/js/layout.js",
+		"/C/www/azconews/public/wp-content/themes/azconews/nav.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/я_searchform.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/searchform.php",
+		"/C/www/azconews/public/wp-blog-header.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/popular.php",
+		"/C/www/azconews/public/wp-content/plugins/yet-another-related-posts-plugin/yarpp.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/tag.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/index.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/index/main.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/loop-single.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/index/articles.php",
+		"/C/www/azconews/public/wp-content/themes/azconews/_home.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tab",
+			"\n  ",
+			";",
+			"}",
+			"{",
+			"glyphicons",
+			"top",
+			"finis",
+			"preve",
+			"component",
+			"init",
+			"start",
+			"inner",
+			"sprite",
+			"scene",
+			"startMe",
+			".score",
+			"startMe",
+			"getStartMessage",
+			"score",
+			"start",
+			"s",
+			"start",
+			"	Crafty.scene(\"start\", function () {\n		Crafty.background(\"url(\" + background + \") no-repeat\");\n	});\n	\n",
+			"submit_scores",
+			"sdninja_submit_scores",
+			"sdninja_admin",
+			"option",
+			"action2",
+			"nAre",
+			"submir",
+			"RR'",
+			"RR",
+			"230",
+			"$screen",
+			"$",
+			"query",
+			"_column_headers",
+			"get_column_info",
+			"_get_list_table",
+			"$sendback",
+			" table",
+			"sdninja_activate",
+			"activate",
+			"sdninja_activate",
+			"_acti",
+			"aaannyy ",
+			"sdninja_activate",
+			"SDNinja",
+			"getINs",
+			"IMAGE",
+			"IMAGES",
+			"ns2",
+			"546",
+			"sdninja_submit_scores",
+			"sdninja_activate",
+			"options",
+			"render",
+			"topcount",
+			" )",
+			"time",
+			"		\n",
+			"setTimeLimit",
+			"add_options",
+			"sdninja_activate",
+			"register_activation_hook",
+			"sdninja_activate",
+			"');\n",
+			"$this",
+			"forea",
+			"sd_nickname",
+			"iedit",
+			"render",
+			"sdninja_admin_menu",
+			"add_options_page",
+			"sdninja_admin_menu",
+			"apt_publish_post",
+			"admin_me",
+			"sdninja_admin_menu",
+			"apt_interface",
+			"add_options_page",
+			"apt_add_admin_menu",
+			"setTimeLimit",
+			"score",
+			"SdNinja",
+			"Crafty",
+			"start",
+			"init",
+			"cr-stage",
+			"__image",
+			"crstage",
+			"cr-stage",
+			"init",
+			"RSSImagesMain",
+			"shadowBoxScript",
+			"_SHO",
+			"return",
+			"shortcode",
+			"new RSSImport",
+			"RSSImport",
+			"RSSImport_Shortcode",
+			"SDNinjs",
+			"SDNinja",
+			"SDNinjs",
+			"	\n",
+			"Include",
+			"leftmenu",
+			"mainNewslist",
+			"convert",
+			"die",
+			"N.DATA",
+			"getNew",
+			"dateCondition",
+			"byDate",
+			"get",
+			"hidde",
+			"initCa",
+			"addNative",
+			"add",
+			"day_count",
+			"dayofmonth",
+			"mainNewslist",
+			"leftmenu",
+			"topmenu",
+			"leftmenu",
+			"SKY",
+			"mode=\"tex",
+			"leftmenu_1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"crt",
+			"http://www.almaz-antey.ru/Info",
+			"<br />",
+			"&#0160;",
+			"getVirtualImagePath()",
+			"script",
+			"remove_query_arg",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.git":
+	{
+		"height": 175.0
+	},
+	"output.sftp":
+	{
+		"height": 304.0
+	},
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"configrb",
+				"config/application.rb"
+			],
+			[
+				"contpages",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"sc",
+				"scores_table.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/www/azconews/public/azconews.sublime-project"
+			]
+		],
+		"width": 791.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true
+}
