@@ -247,6 +247,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/helpers/application_helper.rb",
+			"settings":
+			{
+				"buffer_size": 233,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -254,6 +262,18 @@
 		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
 			[
 				"ind",
 				"Indentation: Convert to Spaces"
@@ -263,20 +283,12 @@
 				"Git: Commit"
 			],
 			[
-				"git add",
-				"Git: Add..."
-			],
-			[
 				"git diff",
 				"Git: Diff All"
 			],
 			[
 				"git s",
 				"Git: Status"
-			],
-			[
-				"git co",
-				"Git: Commit"
 			],
 			[
 				"git ad",
@@ -748,8 +760,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/helpers/application_helper.rb",
+					"settings":
+					{
+						"buffer_size": 233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
