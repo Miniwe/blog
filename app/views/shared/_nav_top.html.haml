@@ -1,0 +1,11 @@
+%nav.navbar.navbar-inverse.navbar-fixed-top
+  .navbar-inner
+    .container
+      = link_to "", :class => "btn btn-navbar", :data => {:target => ".nav-collapse", "toggle" => "collapse"} do
+        %span.icon-bar
+        %span.icon-bar
+        %span.icon-bar
+      = link_to "Blog", "/", :class => "brand"
+      .nav-collapse.collapse
+        = render :partial => "shared/menu"  
+        = render :partial => "shared/user_menu"  

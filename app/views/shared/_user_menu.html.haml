@@ -1,0 +1,16 @@
+%ul.nav.pull-right
+  %li.divider-vertical
+  %li.dropdown
+    %a.dropdown-toggle{"data-toggle" => "dropdown", :href => "#"}
+      User
+      %b.caret
+    %ul.dropdown-menu
+      %li
+        = link_to "Log In", "/user/log_in"
+      %li
+        = link_to "Sign Up", "/user/sign_up"
+      %li
+        = link_to "Log Out", "/user/log_out"
+      %li.divider
+      %li
+        = link_to "Profile", "/user"
